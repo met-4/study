@@ -16,7 +16,7 @@
 - [ ] 프로세스와 스레드의 차이
 
 ### Network
-- 슬라이딩 윈도우란 무엇인지
+- [ ] 슬라이딩 윈도우란 무엇인지
 
 ### Apache
 - [ ] Web server와 Web Application Server (WAS)의 차이
