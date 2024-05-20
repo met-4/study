@@ -11,11 +11,12 @@
 - Apache 디렉토리 구조
 
 ## ✅ 위시리스트
+- 각 파트별 궁금한 내용
 ### OS
 - [ ] 프로세스와 스레드의 차이
 
 ### Network
-- [ ] OSI 7 Layer
+- 슬라이딩 윈도우란 무엇인지
 
 ### Apache
 - [ ] Web server와 Web Application Server (WAS)의 차이
