@@ -19,3 +19,4 @@ resource "aws_instance" "adminhost" {
     Name = format("${var.name}-%s-%s", "admin", "server")
   }
 }
+
